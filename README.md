@@ -6,4 +6,5 @@ Silahkan gunakan format berikut:<br>
 **\* Nama,[Linkeind/Github/website](Alamat URL)**
 
 Berikut adalah daftar Volunter yang diterima:<br>
-* Syafar, [syafar.co.id](https://syafar.co.id)
+* Syafar, [syafar.co.id](https://syafar.co.id).
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
